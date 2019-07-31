@@ -1,5 +1,5 @@
 token= NjA2MDE4MTM4NTA4NzU0OTcy.XUE8ZA.xHcIeR8ba1jRMHcrnj9jcP1NPOg
-owner=431636432185065482
+owner= 431636432185065482
 prefix= 99
 game= Type 99Play
 stayinchannel=true 
